@@ -5,8 +5,10 @@ This is going to be my first experince with a real repo management. For this exe
 I created a project `intro-to-kaggle-competition` in my GitHub account and clone it to my local PC using the following command `git clone`. Next, I opened a new project in my PyCharm editor. Before starting work on a project, it is a good practice to create a virtual environments for it. I have created a virtual environment using the following steps:
 1.  Open Anaconda prompt or PyCharm terminal
 2.  Create a virtual environment for the repo: `conda create --name intro-to-kaggle-competition python=3.8`
-3.  Activate the inviroment: `conda activate intro-to-kaggle-competition` (the enviroment will change from "base" to "ad-export", and we will see it in the propmt)
-4.  If needed instal the requirement of the repo: `conda install pip` or `conda install -r requirements.txt`
+3.  Activate the inviroment: `conda activate intro-to-kaggle-competition` (the enviroment will change from `base` to `conda activate intro-to-kaggle-competition`, and we will see it in the propmt)
+4.  Install ipykernel `conda install -c anaconda ipykernel` and after installing it execute `python -m ipykernel install --user --name=intro-to-kaggle-competition`
+5.  Install jupyter `conda install jupyter`
+6.  If needed instal the requirement of the repo: `conda install pip` or `conda install -r requirements.txt`
 
 Now we are all set 🦾.
 
@@ -19,6 +21,7 @@ These course consists of four parts:
 3. Feature Engineering
 4. Modeling
 
-Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, open a pull request, and push the changes.
+The execution of all parts will be conducted via Jupyter notebook. Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, open a pull request, and push the changes.
 
 ##  1. Kaggle competitions process
+The data for this exercise is coming from the [Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data)
