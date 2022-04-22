@@ -18,3 +18,7 @@ These course consists of four parts:
 2. Dive into the Competition
 3. Feature Engineering
 4. Modeling
+
+Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, open a pull request, and push the changes.
+
+##  1. Kaggle competitions process
