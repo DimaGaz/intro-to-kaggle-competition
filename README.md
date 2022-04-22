@@ -6,7 +6,7 @@ I created a project `intro-to-kaggle-competition` in my GitHub account and clone
 1.  Open Anaconda prompt or PyCharm terminal
 2.  Create a virtual environment for the repo: `conda create --name intro-to-kaggle-competition python=3.8`
 3.  Activate the inviroment: `conda activate intro-to-kaggle-competition` (the enviroment will change from "base" to "ad-export", and we will see it in the propmt)
-4.  If needed instal the requirement of the repo: 'conda install pip' or `conda install -r requirements.txt`
+4.  If needed instal the requirement of the repo: `conda install pip` or `conda install -r requirements.txt`
 
 Now we are all set 🦾.
 
