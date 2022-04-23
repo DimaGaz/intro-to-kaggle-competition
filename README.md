@@ -23,5 +23,3 @@ These course consists of four parts:
 
 The execution of all parts will be conducted via Jupyter notebook. Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, open a pull request, and push the changes.
 
-##  1. Kaggle competitions process
-The data for this exercise is coming from the [Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data)
