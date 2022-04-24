@@ -8,7 +8,7 @@ I created a project `intro-to-kaggle-competition` in my GitHub account and clone
 3.  Activate the inviroment: `conda activate intro-to-kaggle-competition` (the enviroment will change from `base` to `conda activate intro-to-kaggle-competition`, and we will see it in the propmt)
 4.  Install ipykernel `conda install -c anaconda ipykernel` and after installing it execute `python -m ipykernel install --user --name=intro-to-kaggle-competition`
 5.  Install jupyter `conda install jupyter`
-6.  If needed instal the requirement of the repo: `conda install pip` or `conda install -r requirements.txt`
+6.  If needed install the requirement of the repo: `conda install pip` or `conda install -r requirements.txt`
 
 Now we are all set 🦾.
 
