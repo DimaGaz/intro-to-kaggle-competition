@@ -21,5 +21,5 @@ These course consists of four parts:
 3. Feature Engineering
 4. Modeling
 
-The execution of all parts will be conducted via Jupyter notebook. Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, open a pull request, and push the changes.
+The execution of all parts will be conducted via Jupyter notebook. Two very common GitHub essentials are branches and pull requests. To practice these two, I will create a separate branch for each part of the course, commint push the changes, open a pull request and merge branch.
 
