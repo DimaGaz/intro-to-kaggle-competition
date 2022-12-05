@@ -1,5 +1,5 @@
 # Introduction
-This is going to be my first experince with a real repo management. For this exercise, I will do an interactive course from Datacamp/[Machine Learning Scientist with Python track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python?version=1).
+This is going to be my first experience with a real repo management. For this exercise, I will do an interactive course from Datacamp/[Machine Learning Scientist with Python track](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python?version=1).
 
 # Get Started
 I created a project `intro-to-kaggle-competition` in my GitHub account and clone it to my local PC using the following command `git clone`. Next, I opened a new project in my PyCharm editor. Before starting work on a project, it is a good practice to create a virtual environments for it. I have created a virtual environment using the following steps:
